@@ -13,6 +13,7 @@ The FI/RE (financial independence/ retire early) movement has been going on for 
 Pittsburgh TechFest 2017:
 * http://pghtechfest.com/
 * [Schedule](https://drive.google.com/file/d/0BytLvyY5XjozUkloV09RUnhiRGM/view?usp=sharing)
+* [Slides](https://github.com/PghTechFest/PghTechFest2017)
 
 ## References
 * [Mr. Money Mustache](http://www.mrmoneymustache.com/)
